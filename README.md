@@ -44,7 +44,8 @@ Include relevant screenshots of your app to give an overview of its interface an
 
 # Demo #Video
 You can watch the following demo videos to see MyApp in action:
-## [![Estore App](https://youtube.com/shorts/r1MJ1EsaVis?feature=share](https://youtube.com/shorts/r1MJ1EsaVis?feature=share)
+## [![storeApp](https://img.youtube.com/vi/r1MJ1EsaVis/0.jpg)](https://www.youtube.com/watch?v=r1MJ1EsaVis)
+
 
 
 # Installation
