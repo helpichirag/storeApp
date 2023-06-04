@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "843273213500",
+    "firebase_url": "https://storefigma-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "storefigma",
+    "storage_bucket": "storefigma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843273213500:android:a25c88bc32cee242b6d539",
+        "android_client_info": {
+          "package_name": "com.example.codstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843273213500-o3gfrtci2lo8lc5cah6iarm33s5kigqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9cV22N970G6k7WkG0mejg2PLHBFPAuns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843273213500-o3gfrtci2lo8lc5cah6iarm33s5kigqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
